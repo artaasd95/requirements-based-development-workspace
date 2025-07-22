@@ -76,7 +76,7 @@ Before starting development, define:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/artaasd95/requirements-based-development-workspace
    cd requirements-based-development-workspace
    ```
 
@@ -104,6 +104,22 @@ This workspace includes `agent-prompt.txt` with detailed instructions for AI-pow
 - Code implementation following best practices
 - Comprehensive testing strategies
 - Documentation and deployment preparation
+
+### Using with Trae IDE (trae.ai)
+
+For optimal results when using this workspace with Trae IDE:
+
+1. **Load the agent prompt**: Use the file `/agent-prompt.txt` as your main agent prompt in Trae IDE
+2. **Set as system prompt**: Copy the contents of `agent-prompt.txt` and set it as your system prompt for the AI agent
+3. **Follow the structured process**: The agent will guide you through the 5-phase development approach automatically
+4. **Leverage AI assistance**: The prompt is specifically designed to work with AI agents for requirements-driven development
+
+The agent prompt contains comprehensive instructions that enable AI assistants to:
+- Analyze requirements systematically
+- Make informed technology decisions
+- Generate proper documentation
+- Implement clean, maintainable code
+- Create comprehensive test suites
 
 ## Best Practices
 
