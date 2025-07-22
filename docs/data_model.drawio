@@ -1,0 +1,21 @@
+<!-- Data Model Diagram Placeholder -->
+<!-- This file should contain ER diagrams or data schema -->
+<!-- Use draw.io or similar tool to create data models -->
+
+<!-- Include: -->
+<!-- - Entity relationships -->
+<!-- - Primary and foreign keys -->
+<!-- - Data types -->
+<!-- - Constraints -->
+<!-- - Indexes -->
+
+<!-- Example entities: -->
+<!-- User -->
+<!-- Product -->
+<!-- Order -->
+<!-- Category -->
+
+<!-- Alternative: JSON Schema files can be created as: -->
+<!-- data_model_user.json -->
+<!-- data_model_product.json -->
+<!-- etc. -->
